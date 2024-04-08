@@ -77,6 +77,11 @@ body {
   display: none;
 }
 
+.actual-weather {
+  margin-top: 30px;
+  text-align: center;
+}
+
 .weather h1 {
   font-size: 80px;
   font-weight: 700;
